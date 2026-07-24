@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity f97c1fe2fd4f2a1a</metadata>
-  <rect width="64" height="64" rx="16" fill="hsl(148 64% 37%)"/>
-  <path d="M36 0h28v64H22Z" fill="hsl(227 72% 72%)" opacity="0.82"/>
-  <g transform="rotate(210 32 32)" opacity="0.42"><path d="M14 43 32 13l18 30Z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">DG</text>
+  <title>등촌 유흥 꿀팁</title>
+  <rect width="64" height="64" rx="12" fill="hsl(148 64% 33%)"/>
+  <g transform="rotate(180 32 32)"><rect x="15" y="15" width="28" height="28" rx="6" fill="none" stroke="hsl(148 24% 96%)" stroke-width="7"/><rect x="25" y="25" width="24" height="24" rx="6" fill="hsl(234 68% 64%)"/></g>
 </svg>
